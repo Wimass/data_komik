@@ -15,7 +15,20 @@ Project ini di buat bertujuan untuk memenuhi tugas matakuliah  Web Programming 3
 ## Tampilan Program
 
 - Tampilan Awal
-![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Awal.png)
+  ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Awal.png)
+
+- Tampilan Tambah Data Komik
+  ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Tambah_Data_Komik.png)
+  
+- Tampilan Data Berhasil Ditambahkan
+  ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Data_Berhasil_Ditambahkan.png)
+  
+- Tampilan Edit Data Komik
+  ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Edit_Data_Komik.png)
+  
+- Tampilan Hapus Data Komik
+  ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Hapus_Data_Komik.png)
+  
 
 ## Penggunaan
 
@@ -31,7 +44,7 @@ Berikut adalah struktur direktori dalam proyek:
 
 
 
-============================================================================================================
+=======================================================================================
 
 # CodeIgniter 4 Application Starter
 
