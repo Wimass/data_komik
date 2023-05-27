@@ -1,4 +1,4 @@
-# Judul Proyek
+# Data Komik
 
 Deskripsi singkat proyek tugas kuliah.
 
@@ -12,13 +12,10 @@ Project ini di buat bertujuan untuk memenuhi tugas matakuliah  Web Programming 3
 - Fitur 2: Edit Data Komik.
 - Fitur 3: Hapus Data Komik.
 
-## Instalasi
+## Tampilan Program
 
-Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek ini secara lokal:
-
-1. Langkah instalasi pertama.
-2. Langkah instalasi kedua.
-3. Langkah instalasi ketiga.
+- Tampilan Awal
+![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Awal.png)
 
 ## Penggunaan
 
