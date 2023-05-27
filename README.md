@@ -31,7 +31,7 @@ Proyek ini dibuat sebagai bagian dari tugas mata kuliah Web Programming 3. Proye
   
 
 
-=======================================================================================
+==========================================================================
 
 # CodeIgniter 4 Application Starter
 
