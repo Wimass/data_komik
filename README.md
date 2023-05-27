@@ -1,10 +1,10 @@
 # Data Komik
 
-Deskripsi singkat proyek tugas kuliah.
+Deskripsi singkat proyek untuk tugas Web Programming 3 menggunakan CodeIgniter 4.
 
 ## Deskripsi
 
-Project ini di buat bertujuan untuk memenuhi tugas matakuliah  Web Programming 3.
+Proyek ini dibuat sebagai bagian dari tugas mata kuliah Web Programming 3. Proyek ini dikembangkan menggunakan framework CodeIgniter 4, yang merupakan salah satu framework PHP populer untuk pengembangan aplikasi web. Proyek ini bertujuan untuk mengimplementasikan konsep-konsep dan fitur-fitur utama yang dipelajari dalam mata kuliah ini, seperti penggunaan model-view-controller (MVC), dan penggunaan database.
 
 ## Fitur
 
@@ -29,19 +29,6 @@ Project ini di buat bertujuan untuk memenuhi tugas matakuliah  Web Programming 3
 - Tampilan Hapus Data Komik
   ![alt text](https://github.com/Wimass/data_komik/blob/master/public/Tampilan_Hapus_Data_Komik.png)
   
-
-## Penggunaan
-
-Berikut adalah langkah-langkah untuk menggunakan proyek ini:
-
-1. Langkah penggunaan pertama.
-2. Langkah penggunaan kedua.
-3. Langkah penggunaan ketiga.
-
-## Struktur Proyek
-
-Berikut adalah struktur direktori dalam proyek:
-
 
 
 =======================================================================================
